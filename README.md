@@ -1,7 +1,9 @@
 # ASPECT-Jupyter
 Introduction to running ASPECT in a Jupyter notebook.
 
-See the Wiki pages for instructions.
+Updated to work with ASPECT Jupyter Notebooks tool hosted on geodynamics.org.
+
+See: https://geodynamics.org/resources/aspectnotebook
 
 **Developers:**
 
